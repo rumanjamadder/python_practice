@@ -19,5 +19,19 @@ for invetor in InventorOfPython:
 
     print("\n")
 
+# Three use define function
+def a():
+    print("Correct Answer:", "a. Guido Van Rossum()")
+    print("Winner 10cr")
+def b():
+    print("INCORRECT ANSWER:", "b. Marks Zukerbag()")
+    print("Thanks for participating")
+def c():
+    print("INCCORRECT ANSWER:", "c. Benjamin Franklin()")
+    print("Thanks for participating")
+def d():
+    print("INCORRECT ANSWER:", "d. James Bond()")
+    print("Thanks for participating")
+
                     
 
